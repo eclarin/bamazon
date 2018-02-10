@@ -1,0 +1,19 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "SQL homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "sql homework"
+  },
+  "keywords": [
+    "sql",
+    "homework"
+  ],
+  "author": "Earl Clarin",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
